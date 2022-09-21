@@ -1,0 +1,65 @@
+.para {
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: overline double green;
+    text-shadow: 4px 3px 6px;
+    text-indent: 50px;
+}
+
+.XPA {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline wavy;
+
+}
+
+.coolor {
+    color: red;
+   
+}
+
+p {
+    text-align: justify;
+    text-indent: 50px
+    }
+
+footer  {
+
+text-decoration: underline ;
+}
+
+----------------------------------------------------------------------------------------
+h1 {
+text-align: center;
+text-transform: uppercase;
+text-decoration: underline wavy;
+
+}
+
+.font {
+text-decoration: underline solid;
+text-transform: uppercase;
+
+}
+
+.kolo {
+color: red;
+
+}
+
+.aju  {
+text-indent: 50px;
+text-align: justify;
+
+}
+article {
+
+    line-height: 20px;
+    letter-spacing: 2px;
+
+}
+body{
+
+}
+
